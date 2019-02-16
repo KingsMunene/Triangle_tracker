@@ -8,8 +8,6 @@ check out my Portfolio:[https://kingsmunene.github.io/]()
 To run this application click on the site link provided!!
 Make sure you use numeric values!
 link:
-## BDD
-
 
 ## Technologies Used
 This application is entirely built using HTML,JAVA SCRIPT AND CASCADING STYLING SHEET FILES.
