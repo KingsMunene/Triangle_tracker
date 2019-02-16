@@ -20,11 +20,13 @@ html{
   color:black;
   font-stretch: extra-expanded;
 }
+
 h2{
   font-family: sans-serif;
   text-align:center;
   font-style:italic;
 }
+
 .buttons{
  width: 20px;
  height: 10px;
