@@ -5,12 +5,14 @@ html{
     background-size: auto;
     background-attachment: fixed;
   }
+
 .input{
   text-align: center;
   line-height: 80px;
   padding-bottom: 8px;
   font-weight: 300;
 }
+
 .header {
   text-align: center;
   font-family: fantasy;
