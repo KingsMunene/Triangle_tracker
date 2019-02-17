@@ -1,6 +1,5 @@
-html{
-    background-image:url("
-        ../image/images.jpg");
+body{
+    background-image:url("../image/images.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: auto;
