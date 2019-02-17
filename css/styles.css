@@ -38,3 +38,12 @@ h2{
  left: 50%;
  border-radius: 10px;
 }
+reset{
+    width: 20px;
+ height: 10px;
+ align:middle;
+ position: absolute;
+ top: 70%;
+ left: 50%;
+ border-radius: 10px;
+}
