@@ -9,7 +9,7 @@ if(side1==side2 && side2==side3){
 else if(side1==side2 || side2 ==side3 || side1==side3){
 		alert("isosceles")
 		}
-else	if((side1 + side2) <= side3 && (side1 + side3) <= side2 || (side2 + side3) <= side1){
+else	if((side1 + side2) <= side3 && (side1 + side3) <= side2 || (side2 + side3) <= side1) || (side1+side2+side3)<=0{
     alert("Not a definite triangle")
 		}
 else{
