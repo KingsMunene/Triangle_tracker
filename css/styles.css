@@ -35,6 +35,13 @@ h2{
  left: 50%;
  border-radius: 10px;
 }
-p{
-  font-weight: 400;
+.reset{ 
+ width: 20px;
+ height: 10px;
+ align:middle;
+ position: absolute;
+ top: 80%;
+ left: 50%;
+ border-radius: 10px;
 }
+  
