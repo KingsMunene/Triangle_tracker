@@ -4,6 +4,7 @@ html{
     background-repeat: no-repeat;
     background-position: center;
     background-size: auto;
+    background-attachment;fixed
   }
 
 .input{
@@ -36,12 +37,12 @@ h2{
  left: 50%;
  border-radius: 10px;
 }
-reset{
-    width: 20px;
+.reset{
+ width: 20px;
  height: 10px;
  align:middle;
  position: absolute;
- top: 70%;
+ top: 90%;
  left: 50%;
  border-radius: 10px;
 }
