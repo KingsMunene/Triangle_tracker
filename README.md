@@ -2,7 +2,7 @@
 
 Triangle Tracker is a web application for identifying the type of a triangle. The user provides numeric input for the three sides of a triangle then the application outputs the type of triangle based on the values. It also alerts the user if the values do not meet a standard triangle.
 ## AUTHOR(s) Information
-check out my Portfolio:[https://kingsmunene.github.io/]()
+check out my Portfolio:[https://kingsmunene.github.io]()
 
 ## Installation
 To run this application click on the site link provided!!
